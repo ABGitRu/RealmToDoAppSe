@@ -3,12 +3,14 @@
 //  RealmToDoAppSe
 //
 //  Created by Mac on 13.05.2021.
+//  
 //
+
 
 import UIKit
 
-@main
-class AppDelegate: UIResponder, UIApplicationDelegate {
+@UIApplicationMain
+ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 
